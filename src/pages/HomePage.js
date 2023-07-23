@@ -13,10 +13,6 @@ export const HomePage = () => {
       <ul is="expandable-list" data-expanded>
         <li>Item 1</li>
         <li>Item 2</li>
-        <ul is="expandable-list" data-expanded>
-          <li>Item 1</li>
-          <li>Item 2</li>
-        </ul>
       </ul>
     </>
   );
